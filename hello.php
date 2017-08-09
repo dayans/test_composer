@@ -1,5 +1,5 @@
 <?php
-class {
+class hello{
 
     public function sayHello()
     {
